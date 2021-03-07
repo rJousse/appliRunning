@@ -1,4 +1,4 @@
-package appliRunning;
+package fr.univ_smb.iae.mtii.m1.appliRunning;
 
 
 
@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import appliRunning.Chaussure;
+import fr.univ_smb.iae.mtii.m1.appliRunning.Chaussure;
 
 @SuppressWarnings("unused")
 class TestaddKilometres {
